@@ -1,0 +1,7 @@
+train: D:\graduation project\ultralytics-main\datasets\car\images\train  # train images (relative to 'path') 4 images
+val: D:\graduation project\ultralytics-main\datasets\car\images\val  # val images (relative to 'path') 4 images
+
+nc: 1
+
+# class names
+names: [' ',' ','car']
